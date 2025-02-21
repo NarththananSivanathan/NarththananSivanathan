@@ -9,7 +9,7 @@ Je suis un **Développeur Web passionné**, spécialisé dans le **Back-end**. A
 ### 🖥️ Langages & Frameworks :
 - **Back-end** : PHP (Symfony), Java (POO, Java EE), Python 
 - **Front-end** : React (Redux en cours d’apprentissage), JavaScript
-- **Base de données** : MySQL, SGBD
+- **Base de données** : SGBD (MySQL)
 - **DevOps** : Docker, Linux (Bash, gestion de fichiers et automatisation de tâches)
 
 ### 📌 Autres compétences :
