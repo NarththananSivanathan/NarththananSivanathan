@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Narththanan Sivanathan !
 
-<!--
-**NarththananSivanathan/NarththananSivanathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 À propos de moi
 
-Here are some ideas to get you started:
+Je suis un **Développeur Web passionné**, spécialisé dans le **Back-end**. Avec une expérience en PHP, Symfony et Java, j'aime relever des défis techniques et concevoir des solutions performantes et évolutives. Actuellement, je suis à la recherche d’une **alternance (2 jours en école / 3 jours en entreprise) ou d’un stage** pour développer davantage mes compétences et contribuer à une équipe dynamique.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Compétences techniques
+
+### 🖥️ Langages & Frameworks :
+- **Back-end** : PHP (Symfony), Java (POO, Java EE), Python 
+- **Front-end** : React (Redux en cours d’apprentissage), JavaScript
+- **Base de données** : MySQL, SGBD
+- **DevOps** : Docker, Linux (Bash, gestion de fichiers et automatisation de tâches)
+
+### 📌 Autres compétences :
+- **Maquettage & UI/UX** : Figma, Canva
+- **Outils & IDE** : JetBrains, Eclipse, GitHub, phpMyAdmin, MySQL Workbenc
+
+## 💼 Expériences Professionnelles
+- 🔹 **Développeur Back-end Symfony** - *LIZEE, Paris* (Jan 2023 - Juin 2024)
+
+## 🎓 Formation & Certifications
+
+- 🎓 **Bachelor Of Engineering – Développement Web**
+- 🎓 **BTS SIO (SLAM) – ESIC Malakoff (2022 – 2024)**
+- 🏅 **Certifications** :
+  - SecNumAcadémie (*Sécurité Informatique*)
+
+## 🌍 Langues
+
+- 🇫🇷 **Français** : Courant
+- 🇬🇧 **Anglais** : Technique + Notions
+- 🇱🇰 **Tamoul** : Courant
+
+## 🔗 Me contacter  
+- 📩 **Email** : [narththanan.pro@gmail.com](mailto:narththanan.pro@gmail.com)
+- 🌐 **Portfolio** : [narththanan-sivanathan.fr](https://narththanan-sivanathan.fr/)
+- 💼 **LinkedIn** : [NarththananSivanathan](https://linkedin.com/in/NarththananSivanathan)
+
+## 🎯 Passions & Centres d’intérêt :  
+- 🏹 Tir à l’arc
+- 💻 Nouvelles technologies
+- 🎯 Défis techniques  
+
+**✨ Toujours prêt à apprendre et à collaborer sur de nouveaux projets passionnants ! 🚀**
