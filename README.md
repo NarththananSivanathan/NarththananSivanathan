@@ -34,7 +34,6 @@ Je suis un **Développeur Web passionné**, spécialisé dans le **Back-end**. A
 
 ## 🔗 Me contacter  
 - 📩 **Email** : [narththanan.pro@gmail.com](mailto:narththanan.pro@gmail.com)
-- 🌐 **Portfolio** : [narththanan-sivanathan.fr](https://narththanan-sivanathan.fr/)
 - 💼 **LinkedIn** : [NarththananSivanathan](https://linkedin.com/in/NarththananSivanathan)
 
 ## 🎯 Passions & Centres d’intérêt :  
