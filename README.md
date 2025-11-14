@@ -17,10 +17,12 @@ Je suis un **Développeur Web passionné**, spécialisé dans le **Back-end**. A
 - **Outils & IDE** : JetBrains, Eclipse, GitHub, phpMyAdmin, MySQL Workbenc
 
 ## 💼 Expériences Professionnelles
-- 🔹 **Développeur Back-end Symfony** - *LIZEE, Paris* (Jan 2023 - Juin 2024)
+- 🔹 **Développeur Full-Stack** - *CrimsonCode, Paris* (Satge | Juillet 2023 - Septemebre 2024)
+- 🔹 **Développeur Back-end Symfony** - *LIZEE, Paris* (Alternace | Janvier 2023 - Juin 2024)
 
 ## 🎓 Formation & Certifications
 
+- 🎓 **Étudiant en Master Expert en Systèmes d’Information et Sécurité**
 - 🎓 **Bachelor Of Engineering – Développement Web**
 - 🎓 **BTS SIO (SLAM) – ESIC Malakoff (2022 – 2024)**
 - 🏅 **Certifications** :
