@@ -10,7 +10,7 @@
 ```
  
 ### `Développeur Full Stack` · `Next.js` · `Symfony` · `VPS`
-### Master 1 Expert en Systèmes d'Information et Sécurité · ESIC Malakoff
+### Master Expert en Systèmes d'Information et Sécurité · ESIC Malakoff
  
 [![Portfolio](https://img.shields.io/badge/Portfolio-narththanan--sivanathan.fr-0096d6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://narththanan-sivanathan.fr)
 [![TripWallet](https://img.shields.io/badge/TripWallet-En%20Production-1D9E75?style=for-the-badge&logo=vercel&logoColor=white)](https://www.tripwallet.fr)
@@ -25,7 +25,7 @@
  
 ## 👋 Qui suis-je ?
  
-Étudiant en **Master 1 Expert en Systèmes d'Information et Sécurité**, j'ai acquis une expérience concrète en développement web full stack à travers mon alternance chez **LIZEE** (startup) et mes projets personnels, dont **[TripWallet](https://www.tripwallet.fr)** — une application déployée en production sur **VPS**.
+Étudiant en **Master Expert en Systèmes d'Information et Sécurité**, j'ai acquis une expérience concrète en développement web full stack à travers mon alternance chez **LIZEE** (startup) et mes projets personnels, dont **[TripWallet](https://www.tripwallet.fr)** — une application déployée en production sur **VPS**.
  
 À l'aise aussi bien sur l'architecture back-end, la gestion d'infrastructure que sur la conduite de projets en méthode **Agile**, je suis curieux, autonome et orienté résultats.
  
