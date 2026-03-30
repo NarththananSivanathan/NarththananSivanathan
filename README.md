@@ -116,7 +116,7 @@
  
 | Diplôme | École | Période |
 |---|---|---|
-| 🎓 Master 2 Expert SI&S *(RNCP Niv.7 – Bac+5)* | ESIC Malakoff | Oct. 2025 → Aujourd'hui |
+| 🎓 Master 2 ESIS *(RNCP Niv.7 – Bac+5)* | ESIC Malakoff | Oct. 2025 → Aujourd'hui |
 | 🎓 Bachelor of Engineering *(Bac+3)* | SUPINFO Paris | Oct. 2024 → Juin 2025 |
 | 🎓 BTS SIO — option SLAM *(Bac+2)* | ESIC Malakoff | Sept. 2022 → Juin 2024 |
  
