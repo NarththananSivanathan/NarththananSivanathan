@@ -93,7 +93,7 @@
  
 ---
  
-### 💼 Plateforme ESA-RH — Mise en relation Entreprises / Candidats
+### 💼 Plateforme JobMarket — Mise en relation Entreprises / Candidats
 > Plateforme web de mise en relation entreprises et candidats. Chef de projet, équipe de 4-5 personnes en Agile.
  
 ![Symfony](https://img.shields.io/badge/Symfony-000?style=flat-square&logo=symfony)
