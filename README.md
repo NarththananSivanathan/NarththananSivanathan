@@ -9,7 +9,7 @@
 ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
  
-### `Développeur Full Stack` · `Next.js` · `Symfony` · `VPS`
+### `Développeur Full Stack & Cybersécurité` · `Next.js` · `Symfony` · `VPS`
 ### Master Expert en Systèmes d'Information et Sécurité · ESIC Malakoff
  
 [![Portfolio](https://img.shields.io/badge/Portfolio-narththanan--sivanathan.fr-0096d6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://narththanan-sivanathan.fr)
